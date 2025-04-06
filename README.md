@@ -45,7 +45,7 @@ Cada **Input** possui:
 
 ## 🧱 Arquitetura do Sistema
 
-![Diagrama de Blocos](/DiagramaDeBlocos.png)
+![Diagrama de Blocos](/Diagrama.png)
 
 ---
 
